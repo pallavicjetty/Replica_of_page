@@ -1,0 +1,51 @@
+.mid{
+    text-transform: uppercase
+}
+.DropDown{
+    font-size: 125%;
+}
+.background{
+    
+    display: block;
+    margin: 20px,40px,20px,40px;
+    background:coral;
+    padding: 40px;
+    
+    color:black
+}
+.ref{
+    width:30%;
+    display:inline-block;
+    margin-top: 1rem;
+    margin-right: 2rem;
+    
+}
+.ref1{
+    padding: 1rem;  
+    background-color:blue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.l{
+    padding: 1rem;  
+      background-color: blue;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+    }
+.footerpart
+{
+    display: block;
+    margin: 50px,20px,50px,20px;
+    background: lightcyan;
+    padding: 40px;
+    font-size:10px;
+    color:black;
+    text-align: center;
+    font-size: 100%;
+}
+    .last{
+        text-align: center;
+        font-display: bold;
+        color:rebeccapurple;
+        font-size: 275%;
+    }
+    
